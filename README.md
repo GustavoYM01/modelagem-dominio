@@ -4,7 +4,7 @@ Demonstração de modelagem de domínio (rica e anêmica), que aborda conceitos 
 
 Além disso, trata também de alguns conceitos do DDD (Domain Driven Design), como: **entidades**, **objetos de valor** e **serviços de domínio**.
 
-Em resumo, esse repositório contém
+Em resumo, os temas citados anteriormente — POO e DDD — são abordados aqui nesse repositório, através da modelagem de domínio, com exemplos do mundo real para melhor assimilação.
 
 # Modelagem anêmica
 ## Exemplo 1 
